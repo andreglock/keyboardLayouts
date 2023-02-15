@@ -1,5 +1,6 @@
 # Keyboard Layouts
-My favourite keyboard layouts that are not pre installed in Windows and Mac. Those layouts are based on the us international with alt-gr dead keys pre installed in Ubuntu. This layout is intended to allow easy writting in Portuguese, Spanish, German, Dutch and a bunch of other latin based languages, but at the same time it doesn't modify the behaviour of special characters such as ' " ` and also allow for smooth programing. 
+My favourite keyboard layouts that are not pre installed in Windows and Mac. Those layouts are based on the us international with alt-gr dead keys pre installed in Ubuntu.  
+This layout is intended to allow easy writting in Portuguese, Spanish, German, Dutch and a bunch of other latin based languages, but at the same time it doesn't modify the behaviour of special characters such as ' " ` and also allow for smooth programing. 
 
 ## Mac 
 
